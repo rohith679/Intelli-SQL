@@ -19,9 +19,7 @@
 
 ## Demo
 
-IntelliSQL Screenshot like "How many students scored above 90 and their names?" and get instant answers!*!
-
-[demo image](image.png)
+IntelliSQL Screenshot like "How many students scored above 90 and their names?" and get instant answers!*![demo image](image.png)
 
 ---
 
